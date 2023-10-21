@@ -1,4 +1,4 @@
-
+<img src="https://media.istockphoto.com/id/1264256667/vector/man-programmer-working-coding-and-programming-on-his-computer.jpg?s=1024x1024&w=is&k=20&c=jvdpK9-6uPN1_GMb1j9V6aVIFJZ3ZD_JGxMEl6JeNls=">
 
 <h1 align="center">Hi 👋, I'm Sunera Harshana</h1>
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
