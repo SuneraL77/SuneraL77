@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/id/1264256667/vector/man-programmer-working-coding-and-programming-on-his-computer.jpg?s=1024x1024&w=is&k=20&c=jvdpK9-6uPN1_GMb1j9V6aVIFJZ3ZD_JGxMEl6JeNls=" style="width:100%,height:500px">
+<img src="[https://media.istockphoto.com/id/1264256667/vector/man-programmer-working-coding-and-programming-on-his-computer.jpg?s=1024x1024&w=is&k=20&c=jvdpK9-6uPN1_GMb1j9V6aVIFJZ3ZD_JGxMEl6JeNls](https://miro.medium.com/v2/resize:fit:1360/0*yVqaoB4N64ZrBXWo.gif)=">
 
 <h1 align="center">Hi 👋, I'm Sunera Harshana</h1>
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
